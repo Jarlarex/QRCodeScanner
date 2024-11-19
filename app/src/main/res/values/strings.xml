@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QRCodeScannerApp</string>
+    <string name="name">Name</string>
+    <string name="website">Website</string>
+    <string name="qr_scanner">QR Scanner</string>
+    <string name="scan_qr_code">SCAN QR CODE</string>
+    <string name="qr_code_icon_description">QR Code Icon</string>
+</resources>
